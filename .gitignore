@@ -1,0 +1,7 @@
+/create-config
+/eslint.config.mjs
+/nodemon.json
+/node_modules
+/package-lock.json
+/package.json
+/yarn.lock
